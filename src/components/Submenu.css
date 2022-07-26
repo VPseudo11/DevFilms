@@ -1,0 +1,48 @@
+.Submenu {
+    width: 200px;
+    max-height: auto;
+    display: none;
+    position: relative;
+}
+
+.divTop {
+    height: 50px;
+}
+
+.angle {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #6e1c28;
+    transform: rotate(45deg);
+    left: 10px;
+    z-index: -1;
+}
+
+.OpSubmenu {
+    width: 100%;
+    background-color: #6e1c28;
+    color: white;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.ItemS {
+    margin: 0;
+    padding: 5px 30px;
+    width: calc(100% - 60px);
+    border-radius: 10px;
+}
+
+.ItemS:hover {
+    background-color: #802331;
+}
+
+.ItemS:hover > a {
+    color: white;
+}

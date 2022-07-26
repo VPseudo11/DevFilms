@@ -15,8 +15,52 @@ img {
 }
 
 .Logo {
-    width: 120px;
-    height: 120px;
+    width: 100px;
+    height: 100px;
+}
+
+.Search{
+    margin: auto;
+}
+
+.NavBar {
+    margin: auto;
+}
+
+.Options {
+    color: white;
+    margin: auto 0;
+    list-style: none;
+    display: inline-flex;
+}
+
+.Item {
+    padding: 0 15px;
+}
+
+.Item a {
+    text-decoration: none;
+    color: white;
+}
+
+.Item a:hover {
+    color: #6e1c28;
+}
+
+.Item i {
+    padding: 0 5px;
+    transition: all .3s ease;
+}
+
+.Item a:hover>i {
+    transform: rotate(90deg);
+}
+
+.Item:hover .Submenu {
+    display: block;
+    position: absolute;
+    margin-top:0px;
+    margin-left: -15px;
 }
 
 .Buttons {
