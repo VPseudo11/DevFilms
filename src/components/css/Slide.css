@@ -1,0 +1,45 @@
+.Slide {
+    min-width: 100%;
+    overflow: hidden;
+    transition: .3s ease all;
+    z-index: 1;
+    max-height: 600px;
+    position: relative;
+}
+
+.Slide img {
+    width: 100%;
+    vertical-align: top;
+}
+
+.TextContainer {
+    background: rgba(0, 0, 0, .3);
+    color: rgba(255, 255, 255, .8);
+    width: 100%;
+    height: 100%;
+    padding: 0 60px;
+    text-align: start;
+    position: absolute;
+    top: 0;
+}
+
+.TextSlide {
+    padding-top: 300px;
+}
+
+.titleMovie {
+    margin: 0;
+    font-size: 3rem;
+}
+
+.gendersMovie {
+    margin: 0;
+}
+
+.durationMovie {
+    margin: 0;
+}
+
+.descriptionMovie {
+    width: 80%;
+}

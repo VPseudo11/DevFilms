@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "img": "./../assets/img/SliderImg/Ambulance.jpg",
+        "title": "Ambulance. Plan de huida",
+        "description": "Michel Bay en estado puro, y ese puede ser el mejor y el peor de los cumplidos. En este caso, es más bien lo primero. Para escapar, asaltarán una ambulancia en la que no están solos. Todos juntos, secuestradores y rehenes, vivirán la huida por las calles de Los Ángeles.",
+        "gender": "Accion",
+        "subgenre": "Crimen",
+        "duration": "2h 16m"
+    },
+    {
+        "id": 2,
+        "img": "./../assets/img/SliderImg/elvis.jpg",
+        "title": "Elvis",
+        "description": "Las mejores películas de Elvis Presley nos dieron al mito, pero 'Elvis' de Baz Luhrmann nos ofrece en bandeja al hombre, al joven rebelde, al artista enloquecido... A la leyenda, en uno de los mejoers musicales del año.",
+        "gender": "Musical",
+        "subgenre": "Drama",
+        "duration": "2h 39m"
+    },
+    {
+        "id": 3,
+        "img": "./../assets/img/SliderImg/North man.jpg",
+        "title": "El hombre del norte",
+        "description": "Con Nicole Kidman y Alexander Skarsgaard reencontrándose una vez más, acompañados de Anya Taylor-Joy, Willem Dafoe, Ethan Hawke, Claes Bang y Björk, 'El hombre del norte' se ambienta en la Islandia del Siglo X para contarnos una historia de venganza basada en una leyenda que inspiró al 'Hamlet' de William Shakespeare.",
+        "gender": "Accion",
+        "subgenre": "Aventura",
+        "duration": "2h 17m"
+    },
+    {
+        "id": 4,
+        "img": "./../assets/img/SliderImg/TheBlackPhone.jpg",
+        "title": "Black Phone",
+        "description": "Una de las mejores adaptaciones de Joe Hill (hijo de Stephen King), sigue a un niño que ha sido secuestrado por un espeluznante asesino y encerrado en un sótano, donde un teléfono le conecta con las víctimas pasadas.",
+        "gender": "Terror",
+        "subgenre": "Suspenso",
+        "duration": "1h 42m"
+    },
+    {
+        "id": 5,
+        "img": "./../assets/img/SliderImg/Veneciafrenia.jpg",
+        "title": "Veneciafrenia",
+        "description": "'Veneciafrenia' está protagonizada por un grupo de turistas españoles que viajan a la ciudad italiana para pasar un buen rato y disfrutar de sus vacaciones, pero pronto tendrán que luchar por su supervivencia entre las góndolas.",
+        "gender": "Terror",
+        "subgenre": "Slasher",
+        "duration": "1h 20m"
+    }
+]

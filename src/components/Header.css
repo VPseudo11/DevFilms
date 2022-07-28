@@ -61,6 +61,7 @@ img {
     position: absolute;
     margin-top:0px;
     margin-left: -15px;
+    z-index: 30;
 }
 
 .Buttons {

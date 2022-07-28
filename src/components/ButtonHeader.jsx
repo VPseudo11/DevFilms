@@ -7,7 +7,7 @@ const ButtonHeader = ({ text, bgColor, borderColor }) => {
         border: `2px solid ${borderColor}`
     }
     return (
-        <button style={bgColorStyle}>{text}</button>
+        <button className='btHeader' style={bgColorStyle}>{text}</button>
     )
 }
 
